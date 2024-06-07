@@ -8,8 +8,8 @@ spec:
   parameters:
     usePodIdentity: "false"
     useVMManagedIdentity: "true"
-    userAssignedIdentityID: "9e6db3a2-6458-454c-8856-e59ddc58280a"
-    keyvaultName: "myKeyVault-107488"
+    userAssignedIdentityID: "2d745179-8263-45e4-b07f-bd5fa44c5162"
+    keyvaultName: "my-ldp-KvEcommerce123"
     objects: |
       array:
         - |

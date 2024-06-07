@@ -228,7 +228,7 @@ spec:
     spec:
       containers:
         - name: ecommerce-store
-          image: ventana1901/ecommerce-store:v12
+          image: myldpacontainerregistry.azurecr.io/ecommerce-store:v1
           ports:
             - containerPort: 3001
           env:

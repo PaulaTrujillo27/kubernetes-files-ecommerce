@@ -115,7 +115,7 @@ spec:
     spec:
       containers:
         - name: ecommerce-admin
-          image: acrk8sprojectecommerce.azurecr.io/ecommerce-admin:16
+          image: myldpacontainerregistry.azurecr.io/ecommerce-admin:3
           ports:
             - containerPort: 3000
           env:
